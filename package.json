@@ -1,0 +1,19 @@
+{
+  "name": "vue-bg-search",
+  "version": "1.0.0",
+  "description": "bg search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luyi10year/vue-bg-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luyi10year/vue-bg-search/issues"
+  },
+  "homepage": "https://github.com/luyi10year/vue-bg-search#readme"
+}
