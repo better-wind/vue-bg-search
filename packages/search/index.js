@@ -1,5 +1,5 @@
+import Search from './src/search';
 
-var demoSearch = {
-    a:'23333333'
-}
-module.exports = demoSearch
+
+
+export default Search;
