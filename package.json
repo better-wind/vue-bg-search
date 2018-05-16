@@ -1,6 +1,6 @@
 {
   "name": "vue-bg-search",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "bg search",
   "main": "index.js",
   "scripts": {

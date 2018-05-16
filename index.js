@@ -1,6 +1,8 @@
 import Search from './packages/search'
-module.exports = {
-    version: '1.0.1',
-    Search
+import Result from './packages/result'
+const version = '1.0.3'
+export  {
+    version,
+    Search,
+    Result
 }
-module.exports.default = module.exports;

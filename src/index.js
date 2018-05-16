@@ -1,5 +1,7 @@
 import Search from '../packages/search'
+import Result from '../packages/result'
 module.exports = {
-    Search
+    Search,
+    Result
 }
 module.exports.default = module.exports;
